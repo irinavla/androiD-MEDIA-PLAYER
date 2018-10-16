@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">AndroidMediaPlayer</string>
+    <string name="app_name">Music Box</string>
+    <string name="play_button">play</string>
+    <string name="song_name">Sonata sample</string>
+    <string name="artist_name">Vivaldi</string>
 </resources>
